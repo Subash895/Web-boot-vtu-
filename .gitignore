@@ -1,0 +1,27 @@
+# Ignore executables
+*.exe
+*.msi
+
+# Ignore videos
+*.mp4
+
+# Ignore audio
+*.mp3
+
+# Ignore downloaded temp files
+*.crdownload
+
+# Ignore images (if you don't want to upload them)
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Ignore node installer
+node-*
+
+# Ignore build folders if any
+bin/
+
+# OS files
+Thumbs.db
